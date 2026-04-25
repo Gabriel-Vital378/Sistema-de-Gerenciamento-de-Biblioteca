@@ -1,5 +1,6 @@
 package dominio;
 
-public class SituacaoUsuario {
-
+public enum SituacaoUsuario {
+    ATIVO,
+    SUSPENSO
 }

@@ -1,5 +1,7 @@
 package dominio;
 
-public class SituacaoEmprestimo {
-
+public enum SituacaoEmprestimo {
+    ATIVO,
+    DEVOLVIDO,
+    ATRASADO
 }

@@ -1,0 +1,4 @@
+[2026-04-25 13:39:23] EMPRESTIMO_REALIZADO | emprestimoId=1 | usuarioId=1 | livroId=1 | dataRetirada=2026-04-25
+[2026-04-25 13:39:23] EMPRESTIMO_REALIZADO | emprestimoId=2 | usuarioId=2 | livroId=2 | dataRetirada=2026-04-25
+[2026-04-25 13:39:23] DEVOLUCAO_REGISTRADA | emprestimoId=1 | dataDevolucao=2026-04-25 | comAtraso=false
+[2026-04-25 13:39:23] EMPRESTIMO_REALIZADO | emprestimoId=1 | usuarioId=1 | livroId=3 | dataRetirada=2026-04-25

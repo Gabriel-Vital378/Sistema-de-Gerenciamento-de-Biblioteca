@@ -1,5 +1,9 @@
 package dominio.evento;
 
-public record DevolucaoRegistradaEvento() {
+import java.time.LocalDate;
 
-}
+public record DevolucaoRegistradaEvento(
+    Long emprestimoId,
+    LocalDate dataDevolucao,
+    boolean comAtraso
+) {}
