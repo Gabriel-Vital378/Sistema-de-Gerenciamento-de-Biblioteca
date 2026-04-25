@@ -1,4 +1,5 @@
 package aplicacao;
+// Etapa 1 - Camada de Aplicação: casos de uso do sistema de biblioteca
 
 import dominio.Emprestimo;
 import dominio.Livro;
