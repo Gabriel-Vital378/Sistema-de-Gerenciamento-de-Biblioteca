@@ -1,5 +1,5 @@
 package aplicacao;
-
+// Etapa 3 - EventBus generico para comunicacao assincrona por eventos
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;
