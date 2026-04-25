@@ -123,3 +123,5 @@ O CSV não tem suporte nativo a atualização de linhas. A solução foi impleme
 
 **3. Desacoplamento total no EventBus**
 O desafio era garantir que `EmprestimoServico` não importasse `ServicoDeNotificacao` nem `ServicoDeLog`. Isso foi resolvido usando `Consumer<T>` do Java (interface funcional), permitindo que a `Main` registre os handlers via referências de método sem que o serviço conheça os consumidores.
+
+Projeto desenvolvido para a disciplina de Design de Software com Java - PUC Goiás.
